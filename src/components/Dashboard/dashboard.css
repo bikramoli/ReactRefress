@@ -1,0 +1,14 @@
+.list-item{
+    list-style: none;
+    margin: 2rem 0;
+    padding: 0;
+}
+.list-item li{
+    margin: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+}
+#dashboard{
+    text-align: center;
+    font-size: 100px;
+  }
